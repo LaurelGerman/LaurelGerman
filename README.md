@@ -4,6 +4,12 @@
 - 🤝 I’m looking to collaborate on projects for social change, or anything related to mental health and neurodiversity!
 - 📫 Connect with me on LinkedIn: linkedin.com/in/laurel-german
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurelGerman&theme=blue-green)
+
+<!---
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=LaurelGerman&show_icons=true)
+--->
+
 <!---
 LaurelGerman/LaurelGerman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
