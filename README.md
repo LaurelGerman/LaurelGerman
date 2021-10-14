@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LaurelGerman
-- 🚀 I'm working in my first software engineer role after 5 years in University IT Management.
-- 🌱 I’m currently growing my skills in Java and Python.
-- 🤝 I’m looking to collaborate on projects for social change, or anything related to mental health and neurodiversity!
-- 📫 Connect with me on LinkedIn: linkedin.com/in/laurel-german
+👋  &nbsp; Hi, I’m @LaurelGerman\
+🚀  &nbsp; I'm in my first SWE role after 5 years in University IT Management.\
+🌱  &nbsp; I’m currently growing my skills in Java and Python.\
+🤝  &nbsp; Collaborate with me on projects for social change, mental health, and neurodiversity!\
+📫  &nbsp; Connect with me on LinkedIn: linkedin.com/in/laurel-german
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurelGerman&theme=blue-green)
 
