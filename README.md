@@ -1,6 +1,6 @@
 👋  &nbsp; Hi, I’m @LaurelGerman\
 🚀  &nbsp; I'm in my first SWE role after 5 years in University IT Management.\
-🌱  &nbsp; I’m currently growing my skills in Java and Python.\
+🌱  &nbsp; I’m currently growing my skills in Java, React, and Python/Django.\
 🤝  &nbsp; Collaborate with me on projects for social change, mental health, and neurodiversity!\
 📫  &nbsp; Connect with me on LinkedIn: linkedin.com/in/laurel-german
 
