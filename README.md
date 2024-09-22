@@ -1,6 +1,6 @@
 👋  &nbsp; Hi, I’m @LaurelGerman\
-🚀  &nbsp; I'm in my first SWE role after 5 years in University IT Management.\
-🌱  &nbsp; I’m currently growing my skills in Java, React, and Python/Django.\
+🚀  &nbsp; I have 3+ years' experience as a full stack SWE, after 5 years in University IT Management.\
+🌱  &nbsp; I am strongest on the front end, but currently growing my backend and cloud skills as well.\
 🤝  &nbsp; Collaborate with me on projects for social change, mental health, and neurodiversity!\
 📫  &nbsp; Connect with me on LinkedIn: linkedin.com/in/laurel-german
 
