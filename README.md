@@ -1,6 +1,6 @@
 👋  &nbsp; Hi, I’m @LaurelGerman\
 🚀  &nbsp; I have 4+ years' experience as a full stack SWE, after 5 years in University IT Management.\
-💪  &nbps; My strongest stack: React/Typescript frontend, AWS serverless backend\
+💪  &nbsp; My strongest stack: React/Typescript frontend, AWS serverless backend (close second: Django backend)\
 🌱  &nbsp; As a consultant, I work on new tech stacks every few months. I am constantly looking to grow my skills and explore new technologies.\
 🫶  &nbsp; I approach every project from a user-first perspective, and I love working at the intersection of product and engineering. I believe technology is a means to accomplish our goals; it's not the goal itself!\
 💼  &nbsp; Currently seeking my next opportunity to create intuitive, empathetic products alongside great people.
