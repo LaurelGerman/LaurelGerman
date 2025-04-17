@@ -1,7 +1,9 @@
 👋  &nbsp; Hi, I’m @LaurelGerman\
-🚀  &nbsp; I have 3+ years' experience as a full stack SWE, after 5 years in University IT Management.\
-🌱  &nbsp; I am strongest on the front end, but currently growing my backend and cloud skills as well.\
-🤝  &nbsp; Collaborate with me on projects for social change, mental health, and neurodiversity!\
+🚀  &nbsp; I have 4+ years' experience as a full stack SWE, after 5 years in University IT Management.\
+💪  &nbps; My strongest stack: React/Typescript frontend, AWS serverless backend\
+🌱  &nbsp; As a consultant, I work on new tech stacks every few months. I am constantly looking to grow my skills and explore new technologies.\
+🫶  &nbsp; I approach every project from a user-first perspective, and I love working at the intersection of product and engineering. I believe technology is a means to accomplish our goals; it's not the goal itself!\
+💼  &nbsp; Currently seeking my next opportunity to create intuitive, empathetic products alongside great people.
 📫  &nbsp; Connect with me on LinkedIn: linkedin.com/in/laurel-german
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=LaurelGerman&theme=blue-green)
