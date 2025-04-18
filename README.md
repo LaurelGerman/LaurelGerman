@@ -1,4 +1,4 @@
-## 🚧 Under Construction - New Projects Coming Soon! 🚧 ##
+## 🚧 Exciting New Projects Coming Soon! 🚧 ##
 ### 🛠️ My Work In Consulting ###
 Since 2021, I've worked as a Software Engineer and Consultant at two different consulting firms. At both companies, I have collaborated directly with clients to build and ship 0→1 products — handling discovery, design, implementation, and production support — often in teams of 2–4 engineers on fast-paced timelines. I have shipped polished, documented, scalable betas in as little as 8 weeks, and shipped new features to production in under 4 hours. Projects typically span 2–4 months, and tech stacks can vary widely between products, although each company has its default tech stack when possible. In my current role, my focus has been React/Typescript frontends and AWS serverless (Python lambda) backends, with an emphasis on AI-integrated webapps. At my past company, I focused on API microservices, Django and Java backends, and React/Typescript frontends. 
 
