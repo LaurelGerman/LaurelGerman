@@ -19,6 +19,7 @@ As I pursue my next opportunity, I’m refactoring the best of those internal to
 - A mobile app that uses geolocation and AI to determine which credit card to use at a store to maximize rewards points
 - An ADHD productivity tool that uses AI to organize reminders, based on the user's texts to themself
 - A ChatGPT-backed document editor with realtime collaboration features
+- Fanduel, but with your friends: an app that allows groups to "bet" (can be gamified points or real money) amongst their friends on their weekend golf outing, bowling night, etc and easily track progress during the event
 - A webapp that creates softball season schedules, factoring in special situations and team requests
 - A "UI cheat sheet": an intuitive playground of frontend components that demonstrates their use and lets the user quickly experiment with them. Inspiration: Material UI has many of these, like their [anchor playground](https://mui.com/material-ui/react-popover/#anchor-playground), but there are more that would be useful
 - A deep dive into the [Tanstack](https://tanstack.com/) ecosystem
