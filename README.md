@@ -25,7 +25,7 @@ As I pursue my next opportunity, I’m refactoring the best of those internal to
 - A deep dive into the [Tanstack](https://tanstack.com/) ecosystem
 
 ### 📅 Stay tuned! ###
-Our first release is scheduled for April 30, 2025. Check back soon!
+Our first release will land here before the end of May. Check back soon!
 
 ### Let's Chat ###
 This entire process is inteded to be educational and collaborative. At times, the field of software enginering can feel daunting and unempathetic, but it doesn't have to be. This is a space for playfulness, curiosity, and conversation without judgement. See an area for improvement? Have an idea? Want to join in on the fun? I'd love to talk — reach out!
